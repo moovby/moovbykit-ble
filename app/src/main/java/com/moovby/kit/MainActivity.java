@@ -65,8 +65,6 @@ public class MainActivity extends AppCompatActivity {
                         e.printStackTrace();
                     }
                 });
-
-
             }
         });
 
@@ -93,7 +91,6 @@ public class MainActivity extends AppCompatActivity {
                         e.printStackTrace();
                     }
                 });
-
             }
         });
 
@@ -120,11 +117,8 @@ public class MainActivity extends AppCompatActivity {
                         e.printStackTrace();
                     }
                 });
-
             }
         });
-
-
     }
 
     @Override

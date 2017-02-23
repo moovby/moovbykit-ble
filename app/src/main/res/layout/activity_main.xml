@@ -14,7 +14,8 @@
         android:id="@+id/code_tv"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:hint="Code" />
+        android:hint="MAC address"
+        android:text="20:15:03:18:08:63" />
 
     <Button
         android:id="@+id/btn_search"
